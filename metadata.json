@@ -1,0 +1,8 @@
+{
+  "name": "Docenza IA - Capolavoro 2026",
+  "description": "Piattaforma formativa sull'Intelligenza Artificiale, sviluppata in collaborazione con Innocenzo Gasparini APS per il progetto ESG Erasmus+. Include materiali didattici, glossario tecnico e certificazione delle competenze per il Capolavoro Unica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
