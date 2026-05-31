@@ -33,21 +33,21 @@ export function Competencies() {
       badge: "/assets/badges/Competenza personale, sociale e capacità di imparare a imparare.png",
       description: "Capacità di riflettere su sé stessi, gestire il tempo e le informazioni, lavorare con gli altri in maniera costruttiva e resiliente."
     },
-    {
-      title: "Materia di cittadinanza",
-      badge: "/assets/badges/Competenza in materia di cittadinanza.png",
-      description: "Agire da cittadini responsabili e partecipare pienamente alla vita civica e sociale, comprendendo le strutture globali e la sostenibilità."
-    },
+//    {
+//      title: "Materia di cittadinanza",
+//      badge: "/assets/badges/Competenza in materia di cittadinanza.png",
+//      description: "Agire da cittadini responsabili e partecipare pienamente alla vita civica e sociale, comprendendo le strutture globali e la sostenibilità."
+//    },
     {
       title: "Competenza imprenditoriale",
       badge: "/assets/badges/Competenza imprenditoriale.png",
       description: "Capacità di agire sulla base di idee e opportunità e di trasformarle in valori per gli altri, fondata sulla creatività e risoluzione di problemi."
     },
-    {
-      title: "Espressione culturale",
-      badge: "/assets/badges/Competenza in materia di consapevolezza ed espressione culturali.png",
-      description: "Comprensione e rispetto di come le idee e i significati vengono espressi creativamente e comunicati in diverse culture."
-    }
+//    {
+//      title: "Espressione culturale",
+//      badge: "/assets/badges/Competenza in materia di consapevolezza ed espressione culturali.png",
+//      description: "Comprensione e rispetto di come le idee e i significati vengono espressi creativamente e comunicati in diverse culture."
+//    }
   ];
 
   return (
